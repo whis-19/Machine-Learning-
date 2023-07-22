@@ -2,14 +2,11 @@
 This is the place where I will post my machine learning progress.
 
 
-Week 5 Progress:
+Week 4 Progress:
 ==================
 
 🔹 Python Project
    
-
-Weekly Progress Report 📊
-
 Week 5 Progress:
 ==================
 
