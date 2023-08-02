@@ -25,7 +25,7 @@ Week 6 Progress:
 
 - Dummy Variable and one hot encoding
 
--Training and Testing Data
+- Training and Testing Data
 
 - Logistic Regression
 
