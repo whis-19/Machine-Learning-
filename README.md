@@ -17,5 +17,18 @@ Week 5 Progress:
    - Gradient Descent and Cost Function
    -Save Model Using Pickle and Joblib
 
+Week 6 Progress:
+==================
 
+🔹 Topics :
+    
+
+- Dummy Variable and one hot encoding
+
+-Training and Testing Data
+
+- Logistic Regression
+
+- Decision Tree
+ 
 Platform: Data World
